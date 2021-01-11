@@ -10,4 +10,5 @@ cd到ui目录下  npm run dev
 启动springboot
 
 <h2>食用效果</h2>
+<img src="https://pic2.zhimg.com/80/v2-d38796930c8190cc29bf7bdf7ff9ab50_720w.png">
 https://pic2.zhimg.com/80/v2-d38796930c8190cc29bf7bdf7ff9ab50_720w.png
